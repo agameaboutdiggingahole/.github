@@ -28,4 +28,3 @@ The game manages to be both relaxing and goal-oriented, letting players progress
 
 Sources: 
 - [Steam Store Page](https://store.steampowered.com/app/3244220/A_Game_About_Digging_A_Hole/)
-- [Polygon Review](https://www.polygon.com/impressions/521049/a-game-about-digging-a-hole-review-sandbox-steam)
